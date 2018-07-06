@@ -10,3 +10,7 @@
 	path = gczeng.github.io
 	url = git@github.com:GCZeng/gczeng.github.io.git
 	branch = master
+[submodule "publich"]
+	path = publich
+	url = git@github.com:GCZeng/gczeng.github.io.git
+	branch = master
